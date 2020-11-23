@@ -2,19 +2,103 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour { 
+public class PlayerMovement : MonoBehaviour
+{
+    public float moveSpeed = 2f;
+    public Rigidbody2D rb;
 
-    public float speed;
-    private Rigidbody2D
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+    Vector2 movement;
+
+        // Update is called once per frame
+        void Update()
+        {
+       movement.x = Input.GetAxisRaw("Horizontal");
+        movement.y = Input.GetAxisRaw("Vertical");
     }
-
-    // Update is called once per frame
-    void Update()
+    private void FixedUpdate()
     {
-        
+        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//why are you here 104 lines down. little freak...
