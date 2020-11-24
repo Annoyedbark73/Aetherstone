@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 2f;
     public Rigidbody2D rb;
-
+    public Animator animator;
     Vector2 movement;
 
         // Update is called once per frame
@@ -14,6 +14,10 @@ public class PlayerMovement : MonoBehaviour
         {
        movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
+
+        animator.SetFloat("moveX", movement.x);
+        animator.SetFloat("moveY", movement.y);
+        animator.SetFloat("speed" , movement.sqrMagnitude);
     }
     private void FixedUpdate()
     {
@@ -101,4 +105,4 @@ public class PlayerMovement : MonoBehaviour
 
 
 
-//why are you here 104 lines down. little freak...
+//why are you here 104 lines down? huh? i expect you to type a response...
