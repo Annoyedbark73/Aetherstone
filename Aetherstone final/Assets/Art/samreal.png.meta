@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: ad4c78ac59dff4f45ba54cec61ac9c07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2194227168272963832
+    second: samreal_0
+  - first:
+      213: 6914042295645075931
+    second: samreal_1
+  - first:
+      213: -8149069944739083575
+    second: samreal_2
+  - first:
+      213: 1887963306079525260
+    second: samreal_3
+  - first:
+      213: -1840896363659113932
+    second: samreal_4
+  - first:
+      213: -1620456447330389431
+    second: samreal_5
+  - first:
+      213: -4537407719740908646
+    second: samreal_6
+  - first:
+      213: 8961253208560125182
+    second: samreal_7
+  - first:
+      213: -2912914590207351135
+    second: samreal_8
+  - first:
+      213: -3167825076039852813
+    second: samreal_9
+  - first:
+      213: -8891930014366741655
+    second: samreal_10
+  - first:
+      213: -1120701461889279503
+    second: samreal_11
+  - first:
+      213: 3178917647190052327
+    second: samreal_12
+  - first:
+      213: 2481770401939070528
+    second: samreal_13
+  - first:
+      213: 4866491573502840209
+    second: samreal_14
+  - first:
+      213: -5693999055954669226
+    second: samreal_15
+  - first:
+      213: 7352214397284269476
+    second: samreal_16
+  - first:
+      213: 6083394511819586548
+    second: samreal_17
+  - first:
+      213: -7958722568093753107
+    second: samreal_18
+  - first:
+      213: -7360610133622796395
+    second: samreal_19
+  - first:
+      213: 4799101738288838748
+    second: samreal_20
+  - first:
+      213: -7827663871799449706
+    second: samreal_21
+  - first:
+      213: 2868702712039084447
+    second: samreal_22
+  - first:
+      213: 6432133379564428786
+    second: samreal_23
+  - first:
+      213: -7153610310097423151
+    second: samreal_24
+  - first:
+      213: 1919076649837767470
+    second: samreal_25
+  - first:
+      213: 351644948143514621
+    second: samreal_26
+  - first:
+      213: -3945045353853234175
+    second: samreal_27
+  - first:
+      213: -6959639762849379768
+    second: samreal_28
+  - first:
+      213: 7326918203383103198
+    second: samreal_29
+  - first:
+      213: 6105941062953269169
+    second: samreal_30
+  - first:
+      213: -2912348852238571998
+    second: samreal_31
+  - first:
+      213: 4917099586007454029
+    second: samreal_32
+  - first:
+      213: 6044152607363277607
+    second: samreal_33
+  - first:
+      213: 2484745631775550293
+    second: samreal_34
+  - first:
+      213: 6330179376246021393
+    second: samreal_35
+  - first:
+      213: 6180448533896095230
+    second: samreal_36
+  - first:
+      213: -2970193642564325058
+    second: samreal_37
+  - first:
+      213: -158898980725454504
+    second: samreal_38
+  - first:
+      213: 4621658445358917789
+    second: samreal_39
+  - first:
+      213: 2794950774102786464
+    second: samreal_40
+  - first:
+      213: -5034728858762559866
+    second: samreal_41
+  - first:
+      213: 5289410172949993676
+    second: samreal_42
+  - first:
+      213: -8296801000594324277
+    second: samreal_43
+  - first:
+      213: 5075111985497228715
+    second: samreal_44
+  - first:
+      213: 3671755870327890806
+    second: samreal_45
+  - first:
+      213: -4038707521783260546
+    second: samreal_46
+  - first:
+      213: -5107139314695536821
+    second: samreal_47
+  - first:
+      213: 4966115975633409079
+    second: samreal_48
+  - first:
+      213: 7985208283265617502
+    second: samreal_49
+  - first:
+      213: -6320894861413378094
+    second: samreal_50
+  - first:
+      213: 6587662212241548932
+    second: samreal_51
+  - first:
+      213: 738826236554336412
+    second: samreal_52
+  - first:
+      213: 7833304382679603877
+    second: samreal_53
+  - first:
+      213: 2591039829303637965
+    second: samreal_54
+  - first:
+      213: 4744146890133882210
+    second: samreal_55
+  - first:
+      213: -3542062628486753483
+    second: samreal_56
+  - first:
+      213: -2482253767185624051
+    second: samreal_57
+  - first:
+      213: 2100690762054753893
+    second: samreal_58
+  - first:
+      213: 4672322698862398273
+    second: samreal_59
+  - first:
+      213: -3052140991351815344
+    second: samreal_60
+  - first:
+      213: -6447836256944332741
+    second: samreal_61
+  - first:
+      213: 6905661429791967499
+    second: samreal_62
+  - first:
+      213: 8680890203972337818
+    second: samreal_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: samreal_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8072496140a8c81e0800000000000000
+      internalID: -2194227168272963832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 96
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd973f1f5dc93ff50800000000000000
+      internalID: 6914042295645075931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 96
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cac3069f00b8ee80800000000000000
+      internalID: -8149069944739083575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 96
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8997dfbf94633a10800000000000000
+      internalID: 1887963306079525260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 64
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a4acfb282d376e0800000000000000
+      internalID: -1840896363659113932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94271ea527bf289e0800000000000000
+      internalID: -1620456447330389431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b5ab718b3e701c0800000000000000
+      internalID: -4537407719740908646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef44e8e7054cc5c70800000000000000
+      internalID: 8961253208560125182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 32
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a663ad0d9f3397d0800000000000000
+      internalID: -2912914590207351135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcd11090ef9904d0800000000000000
+      internalID: -3167825076039852813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 32
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b490e63c4899480800000000000000
+      internalID: -8891930014366741655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f914d845f77270f0800000000000000
+      internalID: -1120701461889279503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edcbfae1c8cd1c20800000000000000
+      internalID: 3178917647190052327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e18a51805017220800000000000000
+      internalID: 2481770401939070528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d81156d40498340800000000000000
+      internalID: 4866491573502840209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samreal_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6519966d60adaf0b0800000000000000
+      internalID: -5693999055954669226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
