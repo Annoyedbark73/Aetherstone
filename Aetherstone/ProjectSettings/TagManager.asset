@@ -41,6 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: sign
+    uniqueID: 2137314033
+    locked: 0
+  - name: bridge
+    uniqueID: 2988021589
+    locked: 0
   - name: player
     uniqueID: 1019210163
     locked: 0
