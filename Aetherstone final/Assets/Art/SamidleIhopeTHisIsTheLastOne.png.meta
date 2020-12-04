@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 34b81dac35330864ab3c8846cadfaa58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -242576956559648413
+    second: SamidleIhopeTHisIsTheLastOne_0
+  - first:
+      213: 2532394303348685462
+    second: SamidleIhopeTHisIsTheLastOne_1
+  - first:
+      213: -5229790825456630235
+    second: SamidleIhopeTHisIsTheLastOne_2
+  - first:
+      213: -4432312164474659828
+    second: SamidleIhopeTHisIsTheLastOne_3
+  - first:
+      213: -3380193856565993107
+    second: SamidleIhopeTHisIsTheLastOne_4
+  - first:
+      213: 6235025729883517681
+    second: SamidleIhopeTHisIsTheLastOne_5
+  - first:
+      213: -8400019120344556807
+    second: SamidleIhopeTHisIsTheLastOne_6
+  - first:
+      213: 2776795226215460615
+    second: SamidleIhopeTHisIsTheLastOne_7
+  - first:
+      213: 2502493061742339454
+    second: SamidleIhopeTHisIsTheLastOne_8
+  - first:
+      213: -8625449999307860509
+    second: SamidleIhopeTHisIsTheLastOne_9
+  - first:
+      213: -50014677415437669
+    second: SamidleIhopeTHisIsTheLastOne_10
+  - first:
+      213: -3870651434664039367
+    second: SamidleIhopeTHisIsTheLastOne_11
+  - first:
+      213: 5944965988348945099
+    second: SamidleIhopeTHisIsTheLastOne_12
+  - first:
+      213: 9045761733384361544
+    second: SamidleIhopeTHisIsTheLastOne_13
+  - first:
+      213: 3707306450028817543
+    second: SamidleIhopeTHisIsTheLastOne_14
+  - first:
+      213: 3250169128107922074
+    second: SamidleIhopeTHisIsTheLastOne_15
+  - first:
+      213: -4866745992168497685
+    second: SamidleIhopeTHisIsTheLastOne_16
+  - first:
+      213: -710922689829697724
+    second: SamidleIhopeTHisIsTheLastOne_17
+  - first:
+      213: -2370503801434229851
+    second: SamidleIhopeTHisIsTheLastOne_18
+  - first:
+      213: -4033531002781818503
+    second: SamidleIhopeTHisIsTheLastOne_19
+  - first:
+      213: -1856268982677545035
+    second: SamidleIhopeTHisIsTheLastOne_20
+  - first:
+      213: 6532894292594215288
+    second: SamidleIhopeTHisIsTheLastOne_21
+  - first:
+      213: 9139240550422984981
+    second: SamidleIhopeTHisIsTheLastOne_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
