@@ -9,6 +9,8 @@ public class SceneHandler : MonoBehaviour
     void Awake()
     {
         DontDestroyOnLoad(gameObject);
+        Debug.Log("Im not dead yet ");
+        //the best antivirus
     }
 
     public void SaveScene()
@@ -16,6 +18,7 @@ public class SceneHandler : MonoBehaviour
         int activeScene = SceneManager.GetActiveScene().buildIndex;
 
         PlayerPrefs.SetInt("ActiveScene", activeScene);
+        Debug.Log("Saved the scene");
     }
 
     public void LoadScene()
@@ -29,6 +32,8 @@ public class SceneHandler : MonoBehaviour
 
         //Loads the Scene asynchronously in the background
         StartCoroutine(LoadNewScene(activeScene));
+        Debug.Log("Loaded the scene");
+        // yaaauuhl its rewind time!!
     }
 
     IEnumerator LoadNewScene(int sceneBuildIndex)
@@ -44,4 +49,112 @@ public class SceneHandler : MonoBehaviour
         asyncOperation.allowSceneActivation = true;
 
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //its the end of the line Loser... 
 }

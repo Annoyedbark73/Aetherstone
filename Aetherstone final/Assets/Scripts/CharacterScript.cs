@@ -72,7 +72,7 @@ public class CharacterScript : MonoBehaviour
         }
         else
         {
-            Debug.Log("No save file to delete!");
+            Debug.Log("No save file to delete!");//whopsie 
         }
     }
 
@@ -84,6 +84,8 @@ public class CharacterScript : MonoBehaviour
         string name = characterInput.text;
         SetCharacterName(name);
         SaveCharacterName(name);
+        Debug.Log("registered");
+        
     }
 
     /*
@@ -92,6 +94,7 @@ public class CharacterScript : MonoBehaviour
     public void InputGet()
     {
         characterText.text = GetCharacterName();
+        Debug.Log("saved");
     }
 
 }
