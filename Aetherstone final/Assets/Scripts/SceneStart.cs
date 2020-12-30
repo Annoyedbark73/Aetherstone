@@ -1,0 +1,22 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+public class SceneStart : MonoBehaviour
+{
+    public Animator Anim;
+
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        var scene = SceneManager.GetActiveScene();
+        if(scene.buildIndex == 1)
+        {
+            Anim.SetTrigger("Start");
+            Debug.Log("pls play bro");
+        }
+    }
+
+    
+}
