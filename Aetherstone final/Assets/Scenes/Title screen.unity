@@ -421,6 +421,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   transitionAnim: {fileID: 641021304}
   Canvas: {fileID: 952319200}
+  Seconds: 1.5
 --- !u!4 &584313773
 Transform:
   m_ObjectHideFlags: 0

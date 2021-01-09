@@ -10,7 +10,7 @@ public class SceneTransition : MonoBehaviour
     
     public Animator transitionAnim;
     public Canvas Canvas;
-
+    public float Seconds;
 
     public void TransitionStart()
     {
@@ -30,13 +30,16 @@ public class SceneTransition : MonoBehaviour
     {
         transitionAnim.SetTrigger("End");
 
-        yield return new WaitForSeconds(2.0f);//patience is a virtue
+        yield return new WaitForSeconds(Seconds);//patience is a virtue
 
         SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
 
 
 
     }
+    
+
+
    
 }
     
