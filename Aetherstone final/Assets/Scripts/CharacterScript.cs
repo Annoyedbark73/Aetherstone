@@ -6,7 +6,7 @@ using TMPro;
 
 public class CharacterScript : MonoBehaviour
 {
-
+    public Animator Anim;
     public TMPro.TextMeshProUGUI characterText; // The text object where we display our characters name
     public TMPro.TMP_InputField characterInput; // The input object where we type our characters name
     private string characterName = ""; // Private reference to our character class
@@ -22,7 +22,7 @@ public class CharacterScript : MonoBehaviour
      * it exists. If it doesn't exist anywhere, we will still return
      * blank, but leave a debug for us to know why blank was returned.
      */
-    private string GetCharacterName()
+   public string GetCharacterName()
     {
 
         if (characterName != "")
@@ -36,6 +36,7 @@ public class CharacterScript : MonoBehaviour
         }
         else
         {
+            Anim.SetTrigger("NoName");
             Debug.Log("Player name has not been set yet!");
             return "Enter Name"; // return placeholder, but submit a warning so we know why a name wasn't returned.
         }
@@ -44,7 +45,7 @@ public class CharacterScript : MonoBehaviour
     /*
      * Set the character name, based on the string provided.
      */
-    private void SetCharacterName(string name)
+    public void SetCharacterName(string name)
     {
 
         characterName = name;
