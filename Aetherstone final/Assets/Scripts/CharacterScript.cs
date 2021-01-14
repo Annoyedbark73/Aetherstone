@@ -11,9 +11,10 @@ public class CharacterScript : MonoBehaviour
     public TMPro.TMP_InputField characterInput; // The input object where we type our characters name
     private string characterName = ""; // Private reference to our character class
     private const string CHARACTER_NAME_KEY = "CHARACTER_NAME_KEY"; // Set a CONST value to avoid spelling errors in save file
-
+    public  GameObject GameObject;
     private void Start()
     {
+        DontDestroyOnLoad(GameObject);
         InputGet(); // Display the character name.
     }
 
@@ -45,7 +46,7 @@ public class CharacterScript : MonoBehaviour
     /*
      * Set the character name, based on the string provided.
      */
-    public void SetCharacterName(string name)
+    private void SetCharacterName(string name)
     {
 
         characterName = name;

@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/slots.unity
     guid: 4bdee2e9fbd69dc4e8a56e4a7983068b
+  - enabled: 1
+    path: Assets/Scenes/name.unity
+    guid: 5607fe1975f80a94aae03182ca78a3e3
+  - enabled: 1
+    path: Assets/Scenes/The Begining.unity
+    guid: b120dfe17f08f7f4581be52116f8fcb3
   m_configObjects: {}
